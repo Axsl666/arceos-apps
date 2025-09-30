@@ -1,4 +1,4 @@
 [submodule "arceos"]
 	path = arceos
-	url = https://github.com/Starry-OS/arceos.git
-	branch = trunk
+	url = https://github.com/Axsl666/arceos.git
+	branch = rk3588
